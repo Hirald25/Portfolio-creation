@@ -1,0 +1,23 @@
+#logo{
+    color:red;
+    text-align: center;
+}
+#bio{
+    width:500px;
+    color:darkblue;
+    text-align: center;
+    position: relative;
+    left: 420px;
+}
+#image{
+   position: relative;
+    top:50px;
+    display:flex ;
+    justify-content: center;
+}
+#socialmedia{
+    display:flex ;
+    justify-content: center;
+    position: relative;
+    top:60px;
+}
